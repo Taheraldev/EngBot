@@ -1,0 +1,10 @@
+1.apologise
+2.admit
+3.both
+4.both
+5.confess
+6.considering
+7.both
+8.know
+9.both
+10.promise

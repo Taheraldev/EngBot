@@ -1,0 +1,7 @@
+1.speaks
+2.go
+3.causes
+4.closes
+5.live
+6.take
+7.connects

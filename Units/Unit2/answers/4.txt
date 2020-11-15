@@ -1,0 +1,12 @@
+1.do you want
+2.believes
+3.i do not remember
+4.i am using
+5.i need
+6.consists
+7.does he want
+8.is he looking
+9.do you recognise
+10.i am thinking
+11.do you think
+12.he seems
